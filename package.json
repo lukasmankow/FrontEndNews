@@ -1,0 +1,24 @@
+{
+  "name": "frontendnews",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "normalize.css": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukasmankow/FrontEndNews.git"
+  },
+  "author": "Lukas Mankow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukasmankow/FrontEndNews/issues"
+  },
+  "homepage": "https://github.com/lukasmankow/FrontEndNews#readme"
+}
